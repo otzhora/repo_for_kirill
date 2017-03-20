@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yriy/CLionProjects/Kirill_laba_1/func.cpp
+types.h
+/home/yriy/CLionProjects/Kirill_laba_1/types.h
+func.h
+/home/yriy/CLionProjects/Kirill_laba_1/func.h
+iostream
+-
+cmath
+-
+
+/home/yriy/CLionProjects/Kirill_laba_1/func.h
+types.h
+/home/yriy/CLionProjects/Kirill_laba_1/types.h
+
+/home/yriy/CLionProjects/Kirill_laba_1/main.cpp
+types.h
+/home/yriy/CLionProjects/Kirill_laba_1/types.h
+func.h
+/home/yriy/CLionProjects/Kirill_laba_1/func.h
+iostream
+-
+
+/home/yriy/CLionProjects/Kirill_laba_1/types.h
+
