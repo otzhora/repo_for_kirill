@@ -99,6 +99,14 @@ public:
         return *this;
     }
 
+
+    ~String ()
+    {
+        delete[] data_;
+    }
+
+    
+
 private:
 
     char* data_;
