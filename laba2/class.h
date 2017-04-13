@@ -105,8 +105,23 @@ public:
         delete[] data_;
     }
 
-    
+    // variant 1
 
+    String operator++()
+    {
+        String s(*this);
+        strcpy_(data_ + defoult_symbol);
+
+        return s;
+    }
+
+    String operator++(int)
+    {
+        strcpy_(data_ + defoult_symbol);
+        return *this;
+    }
+
+    
 private:
 
     char* data_;

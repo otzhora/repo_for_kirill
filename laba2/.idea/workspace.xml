@@ -51,8 +51,8 @@
       <file leaf-file-name="class.h" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="107" column="4" lean-forward="false" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+            <state relative-caret-position="314">
+              <caret line="123" column="4" lean-forward="false" selection-start-line="123" selection-start-column="4" selection-end-line="123" selection-end-column="4" />
               <folding>
                 <element signature="e#88#107#0" expanded="true" />
               </folding>
@@ -366,12 +366,12 @@
       <option name="presentableId" value="Default" />
       <updated>1490203643016</updated>
       <workItem from="1490203644644" duration="1973000" />
-      <workItem from="1492081129335" duration="2315000" />
+      <workItem from="1492081129335" duration="2571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4288000" />
+    <option name="totallyTimeSpent" value="4544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -507,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="107" column="4" lean-forward="false" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        <state relative-caret-position="314">
+          <caret line="123" column="4" lean-forward="false" selection-start-line="123" selection-start-column="4" selection-end-line="123" selection-end-column="4" />
           <folding>
             <element signature="e#88#107#0" expanded="true" />
           </folding>
